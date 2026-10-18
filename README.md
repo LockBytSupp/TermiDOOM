@@ -40,3 +40,8 @@ TermiDOOM is an independent prototype inspired by classic first-person shooters.
 - Android
 - Linux
 - Windows
+
+# Gameplay
+(The Quality is Bad due to My Editing Software)
+
+![TermiDOOM gameplay](gameplay.gif)
